@@ -1,0 +1,13 @@
+.shadow{
+    color: white;
+    background: linear-gradient(45deg, #450d5e, #249e8ca6);
+}
+.home-bt{
+    text-decoration: none;
+    color: #ffff;
+    /* font-family: 'Acme', sans-serif; */
+}
+.us-reg a{
+    text-decoration: none;
+    color:#ffff;
+}

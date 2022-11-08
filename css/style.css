@@ -1,0 +1,19 @@
+body{
+    /* font-family: 'Playfair Display', serif; */
+}
+.home-bt{
+    text-decoration: none;
+    color: #ffff;
+    /* font-family: 'Acme', sans-serif; */
+}
+.shadow{
+    color: white;
+    background: linear-gradient(45deg, #450d5e, #249e8ca6);
+}
+.container-fluid{
+    text-align: center;
+    padding: 3% 15% ;
+}
+.btn{
+    background: linear-gradient(45deg, #a208d0, #c40a0aad);
+}
